@@ -14,6 +14,7 @@ spec:
     spec:
       containers:
       - name: myntra
-        image: sevenajay/myntra:latest
+        #image: sevenajay/myntra:latest
+        image: rover102/myntra-clone-app-01:${BUILD_NUMBER}
         ports:
         - containerPort: 3000   # Use port 3000
