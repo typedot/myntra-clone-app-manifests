@@ -10,9 +10,9 @@ spec:
     server: 'https://kubernetes.default.svc'
 
   source:
-    #path: 
     repoURL: 'https://github.com/typedot/myntra-clone-app-manifests.git'
     targetRevision: HEAD
+    path: 
 
   #sources: []
 
