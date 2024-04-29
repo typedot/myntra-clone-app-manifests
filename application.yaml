@@ -11,7 +11,7 @@ spec:
 
   source:
     repoURL: 'https://github.com/typedot/myntra-clone-app-manifests.git'
-    path: /myntra-clone-app-manifests
+    path: myntra-clone-app-manifests
     targetRevision: HEAD
 
   #sources: []
