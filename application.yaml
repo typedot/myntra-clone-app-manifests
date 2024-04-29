@@ -5,7 +5,7 @@ metadata:
   namespace: argocd
 spec:
   destination:
-    name: 'myntra-clone-app-destination'
+    #name: 'myntra-clone-app-destination'
     namespace: 'apps101'
     server: 'https://kubernetes.default.svc'
 
