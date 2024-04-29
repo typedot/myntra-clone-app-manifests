@@ -15,6 +15,6 @@ spec:
       containers:
       - name: myntra
         #image: sevenajay/myntra:latest
-        image: rover102/myntra-clone-app-01:ReplaceImageTag
+        image: rover102/myntra-clone-app-01:32
         ports:
         - containerPort: 3000   # Use port 3000
