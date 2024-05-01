@@ -4,7 +4,7 @@ metadata:
   labels: 
     app.kubernetes.io/instance: myntra-clone-app
   name: myntra-clone-app-service-resource
-  namespace: apps101
+  #namespace: apps101
 spec:
   selector:
     app: myntra
